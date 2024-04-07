@@ -6,7 +6,7 @@
 | ------------ | ---- |
 | React        | 18.2 |
 | TypeScript   | 4.9  |
-| mui/material | 5.14 |
+| mui/material | 5.15 |
 
 ※その他のライブラリはpackage.json参照
 

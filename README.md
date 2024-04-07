@@ -8,7 +8,7 @@ npx create-react-app frontend --template typescript
 作成後はfrontendディレクトリで作業を行う
 
 ## 各ブランチの説明
-* main：本番環境用
+* master：本番環境用
 * dev：各機能実装後にマージする開発用(テスト環境用)
 * feat-XXX：追加および修正機能開発用，基本的にはこちらのブランチを作成してプルリク出してください\
 ※XXXには追加および修正する機能を記述します
